@@ -5,6 +5,7 @@ public class LoteVO {
 	private String destinacao;
 	private boolean isCondominio;
 	
+	
 	public boolean isCondominio() {
 		return isCondominio;
 	}
